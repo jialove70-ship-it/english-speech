@@ -1,5 +1,7 @@
 # From Operating Room to Publication
 
+- GitHub Pages：[https://jialove70-ship-it.github.io/english-speech/](https://jialove70-ship-it.github.io/english-speech/)
+
 A buildless, single-page English presentation adapted from the supplied 13-slide PowerPoint by Chih-Chien Wu, MD (SCRS Taiwan Annual Meeting / ICRSF 2026).
 
 Open `index.html` directly, or serve this directory with a static HTTP server. All styling, speaker notes, and progressive enhancement JavaScript are embedded. The original supplied cover image is served from `assets/cover.png` and must be kept beside the HTML in that relative path. There are no third-party scripts, fonts, or runtime dependencies. The preferred font is Microsoft YaHei, using local fallback fonts on devices where it is unavailable.
