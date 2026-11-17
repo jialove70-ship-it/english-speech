@@ -13,3 +13,5 @@ The cover includes a **Jump to chapter** selector for all 13 chapters. Choose a 
 Publish this directory as the repository root (or place it in `/docs` and select that folder). In Settings → Pages, select **Deploy from a branch**, the deployment branch, and **/(root)** (or `/docs`, matching the chosen layout). The included `.nojekyll` keeps the site buildless. Keep `assets/cover.png` alongside `index.html` at the indicated relative path when publishing or copying the site.
 
 The source presentation’s operative figure citation is retained; the operative image itself is omitted.
+
+Every page includes a **Jump to page** bar with 13 numbered links, including the cover. The sticky navigation also offers all 13 pages while reading. Each link has the full chapter title for accessibility, the current page is highlighted, and all links work without JavaScript. On mobile, the local page bars wrap and the sticky bar scrolls horizontally.
